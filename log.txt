@@ -1,0 +1,156 @@
+[2025-01-21T18:28:40.311Z] Загальна кількість файлів: 39, середній індекс: 19
+[2025-01-21T18:28:40.312Z] Обробляється файл: 001
+[2025-01-21T18:28:40.319Z] distanceFromMiddle: 19, maxDistance: 19, scaleFactor: 1, originalWidth: 1599
+[2025-01-21T18:28:40.321Z] cropWidth: 1599
+[2025-01-21T18:28:40.351Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\001--1599.jpg
+[2025-01-21T18:28:40.352Z] Обробляється файл: 002
+[2025-01-21T18:28:40.356Z] distanceFromMiddle: 18, maxDistance: 19, scaleFactor: 0.9473684210526315, originalWidth: 1599
+[2025-01-21T18:28:40.357Z] cropWidth: 1556
+[2025-01-21T18:28:40.397Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\002--1556.jpg
+[2025-01-21T18:28:40.398Z] Обробляється файл: 003
+[2025-01-21T18:28:40.403Z] distanceFromMiddle: 17, maxDistance: 19, scaleFactor: 0.8947368421052632, originalWidth: 1599
+[2025-01-21T18:28:40.403Z] cropWidth: 1514
+[2025-01-21T18:28:40.442Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\003--1514.jpg
+[2025-01-21T18:28:40.442Z] Обробляється файл: 004
+[2025-01-21T18:28:40.444Z] distanceFromMiddle: 16, maxDistance: 19, scaleFactor: 0.8421052631578947, originalWidth: 1599
+[2025-01-21T18:28:40.445Z] cropWidth: 1472
+[2025-01-21T18:28:40.488Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\004--1472.jpg
+[2025-01-21T18:28:40.488Z] Обробляється файл: 005
+[2025-01-21T18:28:40.492Z] distanceFromMiddle: 15, maxDistance: 19, scaleFactor: 0.7894736842105263, originalWidth: 1599
+[2025-01-21T18:28:40.492Z] cropWidth: 1430
+[2025-01-21T18:28:40.525Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\005--1430.jpg
+[2025-01-21T18:28:40.526Z] Обробляється файл: 006
+[2025-01-21T18:28:40.528Z] distanceFromMiddle: 14, maxDistance: 19, scaleFactor: 0.7368421052631579, originalWidth: 1599
+[2025-01-21T18:28:40.528Z] cropWidth: 1388
+[2025-01-21T18:28:40.572Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\006--1388.jpg
+[2025-01-21T18:28:40.573Z] Обробляється файл: 007
+[2025-01-21T18:28:40.575Z] distanceFromMiddle: 13, maxDistance: 19, scaleFactor: 0.6842105263157895, originalWidth: 1599
+[2025-01-21T18:28:40.575Z] cropWidth: 1346
+[2025-01-21T18:28:40.611Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\007--1346.jpg
+[2025-01-21T18:28:40.611Z] Обробляється файл: 008
+[2025-01-21T18:28:40.613Z] distanceFromMiddle: 12, maxDistance: 19, scaleFactor: 0.631578947368421, originalWidth: 1599
+[2025-01-21T18:28:40.614Z] cropWidth: 1304
+[2025-01-21T18:28:40.646Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\008--1304.jpg
+[2025-01-21T18:28:40.647Z] Обробляється файл: 009
+[2025-01-21T18:28:40.651Z] distanceFromMiddle: 11, maxDistance: 19, scaleFactor: 0.5789473684210527, originalWidth: 1599
+[2025-01-21T18:28:40.652Z] cropWidth: 1262
+[2025-01-21T18:28:40.686Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\009--1262.jpg
+[2025-01-21T18:28:40.686Z] Обробляється файл: 010
+[2025-01-21T18:28:40.688Z] distanceFromMiddle: 10, maxDistance: 19, scaleFactor: 0.5263157894736842, originalWidth: 1599
+[2025-01-21T18:28:40.689Z] cropWidth: 1220
+[2025-01-21T18:28:40.722Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\010--1220.jpg
+[2025-01-21T18:28:40.723Z] Обробляється файл: 011
+[2025-01-21T18:28:40.725Z] distanceFromMiddle: 9, maxDistance: 19, scaleFactor: 0.47368421052631576, originalWidth: 1599
+[2025-01-21T18:28:40.726Z] cropWidth: 1178
+[2025-01-21T18:28:40.767Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\011--1178.jpg
+[2025-01-21T18:28:40.767Z] Обробляється файл: 012
+[2025-01-21T18:28:40.770Z] distanceFromMiddle: 8, maxDistance: 19, scaleFactor: 0.42105263157894735, originalWidth: 1599
+[2025-01-21T18:28:40.770Z] cropWidth: 1136
+[2025-01-21T18:28:40.802Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\012--1136.jpg
+[2025-01-21T18:28:40.803Z] Обробляється файл: 013
+[2025-01-21T18:28:40.806Z] distanceFromMiddle: 7, maxDistance: 19, scaleFactor: 0.3684210526315789, originalWidth: 1599
+[2025-01-21T18:28:40.807Z] cropWidth: 1094
+[2025-01-21T18:28:40.838Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\013--1094.jpg
+[2025-01-21T18:28:40.838Z] Обробляється файл: 014
+[2025-01-21T18:28:40.840Z] distanceFromMiddle: 6, maxDistance: 19, scaleFactor: 0.3157894736842105, originalWidth: 1599
+[2025-01-21T18:28:40.840Z] cropWidth: 1052
+[2025-01-21T18:28:40.874Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\014--1052.jpg
+[2025-01-21T18:28:40.875Z] Обробляється файл: 015
+[2025-01-21T18:28:40.877Z] distanceFromMiddle: 5, maxDistance: 19, scaleFactor: 0.2631578947368421, originalWidth: 1599
+[2025-01-21T18:28:40.878Z] cropWidth: 1010
+[2025-01-21T18:28:40.909Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\015--1010.jpg
+[2025-01-21T18:28:40.909Z] Обробляється файл: 016
+[2025-01-21T18:28:40.911Z] distanceFromMiddle: 4, maxDistance: 19, scaleFactor: 0.21052631578947367, originalWidth: 1599
+[2025-01-21T18:28:40.912Z] cropWidth: 968
+[2025-01-21T18:28:40.945Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\016--968.jpg
+[2025-01-21T18:28:40.945Z] Обробляється файл: 017
+[2025-01-21T18:28:40.947Z] distanceFromMiddle: 3, maxDistance: 19, scaleFactor: 0.15789473684210525, originalWidth: 1599
+[2025-01-21T18:28:40.948Z] cropWidth: 926
+[2025-01-21T18:28:40.980Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\017--926.jpg
+[2025-01-21T18:28:40.980Z] Обробляється файл: 018
+[2025-01-21T18:28:40.984Z] distanceFromMiddle: 2, maxDistance: 19, scaleFactor: 0.10526315789473684, originalWidth: 1599
+[2025-01-21T18:28:40.985Z] cropWidth: 884
+[2025-01-21T18:28:41.015Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\018--884.jpg
+[2025-01-21T18:28:41.015Z] Обробляється файл: 019
+[2025-01-21T18:28:41.019Z] distanceFromMiddle: 1, maxDistance: 19, scaleFactor: 0.05263157894736842, originalWidth: 1599
+[2025-01-21T18:28:41.019Z] cropWidth: 842
+[2025-01-21T18:28:41.050Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\019--842.jpg
+[2025-01-21T18:28:41.050Z] Обробляється файл: 020
+[2025-01-21T18:28:41.080Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\020--800.jpg
+[2025-01-21T18:28:41.080Z] Обробляється файл: 021
+[2025-01-21T18:28:41.083Z] distanceFromMiddle: 1, maxDistance: 19, scaleFactor: 0.05263157894736842, originalWidth: 1599
+[2025-01-21T18:28:41.084Z] cropWidth: 842
+[2025-01-21T18:28:41.113Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\021--842.jpg
+[2025-01-21T18:28:41.113Z] Обробляється файл: 022
+[2025-01-21T18:28:41.117Z] distanceFromMiddle: 2, maxDistance: 19, scaleFactor: 0.10526315789473684, originalWidth: 1599
+[2025-01-21T18:28:41.118Z] cropWidth: 884
+[2025-01-21T18:28:41.148Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\022--884.jpg
+[2025-01-21T18:28:41.149Z] Обробляється файл: 023
+[2025-01-21T18:28:41.152Z] distanceFromMiddle: 3, maxDistance: 19, scaleFactor: 0.15789473684210525, originalWidth: 1599
+[2025-01-21T18:28:41.153Z] cropWidth: 926
+[2025-01-21T18:28:41.190Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\023--926.jpg
+[2025-01-21T18:28:41.190Z] Обробляється файл: 024
+[2025-01-21T18:28:41.192Z] distanceFromMiddle: 4, maxDistance: 19, scaleFactor: 0.21052631578947367, originalWidth: 1599
+[2025-01-21T18:28:41.192Z] cropWidth: 968
+[2025-01-21T18:28:41.227Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\024--968.jpg
+[2025-01-21T18:28:41.227Z] Обробляється файл: 025
+[2025-01-21T18:28:41.231Z] distanceFromMiddle: 5, maxDistance: 19, scaleFactor: 0.2631578947368421, originalWidth: 1599
+[2025-01-21T18:28:41.232Z] cropWidth: 1010
+[2025-01-21T18:28:41.279Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\025--1010.jpg
+[2025-01-21T18:28:41.280Z] Обробляється файл: 026
+[2025-01-21T18:28:41.284Z] distanceFromMiddle: 6, maxDistance: 19, scaleFactor: 0.3157894736842105, originalWidth: 1599
+[2025-01-21T18:28:41.285Z] cropWidth: 1052
+[2025-01-21T18:28:41.328Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\026--1052.jpg
+[2025-01-21T18:28:41.329Z] Обробляється файл: 027
+[2025-01-21T18:28:41.333Z] distanceFromMiddle: 7, maxDistance: 19, scaleFactor: 0.3684210526315789, originalWidth: 1599
+[2025-01-21T18:28:41.334Z] cropWidth: 1094
+[2025-01-21T18:28:41.375Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\027--1094.jpg
+[2025-01-21T18:28:41.375Z] Обробляється файл: 028
+[2025-01-21T18:28:41.379Z] distanceFromMiddle: 8, maxDistance: 19, scaleFactor: 0.42105263157894735, originalWidth: 1599
+[2025-01-21T18:28:41.380Z] cropWidth: 1136
+[2025-01-21T18:28:41.419Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\028--1136.jpg
+[2025-01-21T18:28:41.419Z] Обробляється файл: 029
+[2025-01-21T18:28:41.422Z] distanceFromMiddle: 9, maxDistance: 19, scaleFactor: 0.47368421052631576, originalWidth: 1599
+[2025-01-21T18:28:41.423Z] cropWidth: 1178
+[2025-01-21T18:28:41.459Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\029--1178.jpg
+[2025-01-21T18:28:41.460Z] Обробляється файл: 030
+[2025-01-21T18:28:41.462Z] distanceFromMiddle: 10, maxDistance: 19, scaleFactor: 0.5263157894736842, originalWidth: 1599
+[2025-01-21T18:28:41.463Z] cropWidth: 1220
+[2025-01-21T18:28:41.493Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\030--1220.jpg
+[2025-01-21T18:28:41.494Z] Обробляється файл: 031
+[2025-01-21T18:28:41.496Z] distanceFromMiddle: 11, maxDistance: 19, scaleFactor: 0.5789473684210527, originalWidth: 1599
+[2025-01-21T18:28:41.497Z] cropWidth: 1262
+[2025-01-21T18:28:41.534Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\031--1262.jpg
+[2025-01-21T18:28:41.535Z] Обробляється файл: 032
+[2025-01-21T18:28:41.538Z] distanceFromMiddle: 12, maxDistance: 19, scaleFactor: 0.631578947368421, originalWidth: 1599
+[2025-01-21T18:28:41.538Z] cropWidth: 1304
+[2025-01-21T18:28:41.572Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\032--1304.jpg
+[2025-01-21T18:28:41.572Z] Обробляється файл: 033
+[2025-01-21T18:28:41.575Z] distanceFromMiddle: 13, maxDistance: 19, scaleFactor: 0.6842105263157895, originalWidth: 1599
+[2025-01-21T18:28:41.575Z] cropWidth: 1346
+[2025-01-21T18:28:41.610Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\033--1346.jpg
+[2025-01-21T18:28:41.610Z] Обробляється файл: 034
+[2025-01-21T18:28:41.612Z] distanceFromMiddle: 14, maxDistance: 19, scaleFactor: 0.7368421052631579, originalWidth: 1599
+[2025-01-21T18:28:41.612Z] cropWidth: 1388
+[2025-01-21T18:28:41.648Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\034--1388.jpg
+[2025-01-21T18:28:41.649Z] Обробляється файл: 035
+[2025-01-21T18:28:41.653Z] distanceFromMiddle: 15, maxDistance: 19, scaleFactor: 0.7894736842105263, originalWidth: 1599
+[2025-01-21T18:28:41.654Z] cropWidth: 1430
+[2025-01-21T18:28:41.692Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\035--1430.jpg
+[2025-01-21T18:28:41.692Z] Обробляється файл: 036
+[2025-01-21T18:28:41.694Z] distanceFromMiddle: 16, maxDistance: 19, scaleFactor: 0.8421052631578947, originalWidth: 1599
+[2025-01-21T18:28:41.695Z] cropWidth: 1472
+[2025-01-21T18:28:41.737Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\036--1472.jpg
+[2025-01-21T18:28:41.739Z] Обробляється файл: 037
+[2025-01-21T18:28:41.742Z] distanceFromMiddle: 17, maxDistance: 19, scaleFactor: 0.8947368421052632, originalWidth: 1599
+[2025-01-21T18:28:41.743Z] cropWidth: 1514
+[2025-01-21T18:28:41.780Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\037--1514.jpg
+[2025-01-21T18:28:41.782Z] Обробляється файл: 038
+[2025-01-21T18:28:41.786Z] distanceFromMiddle: 18, maxDistance: 19, scaleFactor: 0.9473684210526315, originalWidth: 1599
+[2025-01-21T18:28:41.786Z] cropWidth: 1556
+[2025-01-21T18:28:41.826Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\038--1556.jpg
+[2025-01-21T18:28:41.827Z] Обробляється файл: 040
+[2025-01-21T18:28:41.829Z] distanceFromMiddle: 19, maxDistance: 19, scaleFactor: 1, originalWidth: 1599
+[2025-01-21T18:28:41.829Z] cropWidth: 1599
+[2025-01-21T18:28:41.857Z] Файл збережено: C:\Users\Admin\Desktop\image-resizer\public\uploads\resized\040--1599.jpg
+[2025-01-21T18:28:42.099Z] Архів створено.
